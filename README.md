@@ -11,5 +11,5 @@ hi, My first name is Tuan ( full is name Truong Anh Tuan). Currently, Iam studyi
 
 -> github said my project to big, and it not allow me commit those 7 files into it( file not more than 100 and less 25 MB weight) and on visual studio, it not repsond while commit file ( i dont know what is going on). Now, i going to decompose those 7 project into peice to create 8th project and comit it on github. (i hope it will work)
 -> there is something wrong with git on visual studio. after i try to clone res, the visual studio is broken( its not response).
-
+->bc i cant upload a whole project into github so that i uploaded involved files on github. these file are View, model,and controllers. i will upload whole project into google driver. in the assignment doc i put link of github and link of google driver at the end.
 
